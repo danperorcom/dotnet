@@ -1,4 +1,4 @@
-## [|ID - Chose next available number|]: [|Breaking Change Title|]
+## [|Breaking Change Title|]
 
 // There is no built in way to do comments in Markdown, so this C# style comment used to mark comments. Please remove all of these before submission
 // Please use proper markdown syntax for code snippets. See http://daringfireball.net/projects/markdown/syntax for examples
@@ -9,7 +9,7 @@
 //A description of the Scope values can be found at https://docs.microsoft.com/en-us/dotnet/articles/framework/migration-guide/net-compatibility-diagnostics
 
 ### Version Introduced
-[|Version in which the breaking change first occured|]
+[|Version in which the breaking change first occurred|]
 
 ### Version Reverted
 [|Version in which the breaking change was reverted. If not applicable, please remove|]

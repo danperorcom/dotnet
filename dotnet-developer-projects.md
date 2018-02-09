@@ -68,6 +68,7 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [DotVVM](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
   * [Nancy](https://github.com/NancyFx/Nancy) - A lightweight, low-ceremony, framework for building HTTP based services on .NET and Mono.
   * [NemerleWeb](https://github.com/NemerleWeb/NemerleWeb) - Web MVVM library for .Net. It uses reactive data model which allows creating rich internet applications.
+  * [ServiceStack](https://servicestack.net) - Comprehensive and lightning fast message-based framework including ORM, caching, authentication, templating, SPA integrations, etc.
 
 ## Static Site Generators
   * [FsBlog](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#.
@@ -84,14 +85,15 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [Azure Service Bus](https://github.com/azure/azure-service-bus-dotnet) - .NET Standard client library for [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus/).
   * [Azure Event Hubs](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for [Azure Event Hubs](https://docs.microsoft.com/en-us/azure/event-hubs/).
   * [Azure Relay](https://github.com/azure/azure-relay-dotnet) - .NET Standard client library for [Azure Relay](https://docs.microsoft.com/en-us/azure/service-bus-relay/relay-what-is-it).
-  * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
   * [AzureNetQ](https://github.com/Roysvork/AzureNetQ) - An easy to use .NET API for Azure Service Bus.
   * [Brighter](https://github.com/iancooper/Paramore) - A Command Dispatcher and Command Processor library with support for Work or Task Queues over different MoM implementations such as RabbitMQ
+  * [CAP](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
   * [EasyNetQ](https://github.com/mikehadlow/EasyNetQ) - An easy to use .NET API for RabbitMQ.
   * [Lime](https://github.com/takenet/lime-csharp) - A lightweight messaging library. 
   * [MassTransit](https://github.com/MassTransit/MassTransit) - A distributed application framework for RabbitMQ and Azure Service Bus.
+  * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
   * [RestBus](https://github.com/tenor/RestBus) - Easy Asynchronous Messaging and Queueing for .NET
-
+  
 ## Libraries
   * [Albedo](https://github.com/ploeh/Albedo) - A .NET library targeted at making Reflection programming more consistent, using a common set of abstractions and utilities.
   * [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithms and Data structures
@@ -99,6 +101,7 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [ArcGIS.PCL](https://github.com/davetimmins/ArcGIS.PCL) - Call ArcGIS Server REST API resources. You can also convert between ArcGIS features and GeoJSON.
   * [Argument](https://github.com/ashmind/Argument) - Argument validation microframework that does one thing in the simplest way possible.
   * [AshMind.Extensions](https://github.com/ashmind/ashmind-extensions) - A set of very conservative extension methods most of which closely follow naming and design patterns of .NET Base Class Library.
+  * [AspectCore](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework.
   * [ASP.NET MVC Boilerplate Framework](https://github.com/ASP-NET-MVC-Boilerplate/Framework) - ASP.NET MVC Extensions and Helper NuGet packages.
   * [AsyncCollections](https://github.com/HellBrick/AsyncCollections) - A set of lock-free thread-safe collections designed to be used asynchronously.
   * [Automatonymous](https://github.com/MassTransit/Automatonymous) - An asynchronous state machine engine with messaging support. 
@@ -166,10 +169,11 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [SmartIrc4net](https://github.com/meebey/SmartIrc4net) - IRC C# Library
   * [Spartacus](https://github.com/wind39/spartacus) - Multi-purpose C# library, containing: 1) classes to access many types of databases in a fast, generic way; 2) classes to work with XLSX, CSV and DBF files; 3) PDF report engine.
   * [Splat](https://github.com/paulcbetts/splat) - A library to make things cross-platform that should be.
-  * [SSH.NET](https://sshnet.codeplex.com/) - A client-side library for SSH, SCP and SFTP.
+  * [SSH.NET](https://github.com/sshnet/SSH.NET) - A client-side library for SSH, SCP and SFTP.
   * [Strongly Typed Client API Generators for ASP.NET Web API](https://webapiclientgen.codeplex.com/) - Strongly Typed Client API Generators generate strongly typed client API in TypeScript and C# codes supporting desktop, Universal Windows, Android and iOS.
   * [Stuntman](https://github.com/ritterim/stuntman) - OWIN middleware for quickly mocking authentication/authorization use case scenarios locally. Supports Cookie Authentication and Bearer Token Authentication.
   * [SuperSocket](https://github.com/kerryjiang/SuperSocket) - An extensible socket server engine which supports .NET and Mono
+  * [surging](https://github.com/dotnetcore/surging) - The distributed micro service framework based on .NET Core provides high-performance RPC Communications
   * [Sweet.Jayson](https://github.com/ocdogan/Sweet.Jayson) - Fast, reliable, easy to use, fully json.org compliant, thread safe C# JSON library for server side and desktop operations.
   * [VkSharp](https://github.com/kasthack/vksharp) - VK client library
   * [TomP2P.NET](https://github.com/tomp2p/TomP2P.NET) - A P2P-based high performance key-value pair storage library for .NET
@@ -220,7 +224,7 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [Radical](https://github.com/RadicalFx/radical) - An infrastructure framework whose primary role is to help in the development of composite WPF/Silverlight/WP/WinRT applications based on the Model View ViewModel pattern.
   * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
   * [Simple Mvvm Toolkit](http://simplemvvmtoolkit.codeplex.com/) - Provides a simple framework and set of tools for getting up to speed quickly with applications based on the MVVM design pattern. 
-  * [WPF Application Framework (WAF)](http://waf.codeplex.com) - A lightweight Framework that helps you to create well structured WPF Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+  * [Win Application Framework (WAF)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured XAML Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
 ## Tools
   * [API Port](https://github.com/microsoft/dotnet-apiport) - A tool that will analyze code for compatability issues when migrating between .NET Framework releases.  
@@ -251,7 +255,7 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [Snoop WPF](https://github.com/cplotts/snoopwpf) - Snoop - The WPF Spy Utility
   * [Sql Bulk Copy Sync](https://github.com/WCOMAB/SqlBulkSync)
   * [Vagabond](https://github.com/nessos/Vagabond) - Automated dependency resolution and dynamic assembly compilation framework.
-  * [Waf DotNetPad](http://dotnetpad.codeplex.com) - The Waf DotNetPad is a simple and fast code editor that makes fun program with C# or Visual Basic.
+  * [Waf DotNetPad](https://jbe2277.github.io/dotnetpad) - The Waf DotNetPad is a simple and fast code editor that makes fun program with C# or Visual Basic.
   * [Weighted Selector](https://github.com/kinetiq/Ether.WeightedSelector/) - Easy to use (but high performance!) weighted selection implementation.
   * [XDav](https://github.com/rezabazargan/xDav) -  A .net server mudole for webdav standard.
   * [ZeroToNine](https://github.com/ploeh/ZeroToNine) - A tool for maintaining .NET Assembly versions across multiple files.
@@ -339,6 +343,7 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [Material Design in XAML Toolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) - WPF/XAML resources, styles & templates for creating applications using Material Design
   * [Mono XWT](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop apps
   * [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
+  * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Neutronium is a library to create .NET desktop applications using HTML, CSS and javascript. It uses the MVVM pattern exactly the same way as WPF applications.
  
 ## Windows Services
   * [King.Service](https://github.com/jefking/King.Service) - Task scheduling for Azure and Windows
@@ -364,6 +369,8 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
   * [Orleans](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications using virtual actor model.
   
 ## Windows Workflow
+  * [Core WF](https://github.com/dmetzgar/corewf) - WF runtime ported to work on .NET Core.
+  * [Orleans.Activities](https://github.com/OrleansContrib/Orleans.Activities) - WF over [Microsoft Orleans](https://github.com/dotnet/orleans) framework.
   * [Workflow Extractor](https://github.com/punitganshani/WorkflowExtractor) - Document Windows Workflow logic into a Word document or Excel sheet. 
 
 ## Amazon Echo/Alexa Integration
